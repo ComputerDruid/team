@@ -1,0 +1,55 @@
+{
+  "name": "twir-reviewers",
+  "kind": "team",
+  "subteam_of": "twir",
+  "members": [
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": true
+    },
+    {
+      "name": "andrewpollack",
+      "github": "andrewpollack",
+      "github_id": 24868505,
+      "is_lead": false
+    },
+    {
+      "name": "Colton Donnelly",
+      "github": "cdmistman",
+      "github_id": 23486351,
+      "is_lead": false
+    },
+    {
+      "name": "Eric Seppanen",
+      "github": "ericseppanen",
+      "github_id": 36317762,
+      "is_lead": false
+    },
+    {
+      "name": "Stephan D.",
+      "github": "extrawurst",
+      "github_id": 776816,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "twir-reviewers",
+        "members": [
+          776816,
+          813007,
+          23486351,
+          24868505,
+          36317762
+        ]
+      }
+    ]
+  },
+  "website_data": null,
+  "discord": []
+}
